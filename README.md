@@ -17,3 +17,8 @@ Whisper can do a crude form of speaker turn tracking (e.g. " - Hey how are you d
 ## Prompt vs prefix
 
 <https://github.com/openai/whisper/discussions/117>
+
+## Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization
+
+<https://arxiv.org/abs/2305.11095>
+<https://github.com/jasonppy/PromptingWhisper>
