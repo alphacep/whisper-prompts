@@ -39,3 +39,7 @@ Whisper can do a crude form of speaker turn tracking (e.g. " - Hey how are you d
 > “output”: “line1;line2...”
 > }
 > Requirements: For the "reasons" field, you have to provide a reason for the choice of the "closest_prediction" field. For the "closest_prediction" field, choose the prediction key that is closest to the true lyrics. Only when all predictions greatly differ from each other or are completely nonsense or meaningless, which means that none of the predictions is valid, fill in "None" in this field. For the "output" field, you need to output the final lyrics of closest_prediction. If the "closest_prediction" field is "None", you should also output "None" in this field. The language of the input lyrics is English.
+
+## Surveys the paper focusing on Adapters and Prompting methods for Speech Processing.
+
+<https://github.com/ga642381/Speech-Prompts-Adapters>
